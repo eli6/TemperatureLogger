@@ -1,2 +1,2 @@
-#TheLEDBlinker
-This is a project that blinks a LED from a raspberry pi.
+#TheTestProject
+This is a project that connects a raspberry pi to github via ssh
