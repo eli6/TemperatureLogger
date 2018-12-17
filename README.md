@@ -1,2 +1,2 @@
-# TheTestProject
-This is a project that connects a raspberry pi to github via ssh
+# Temperature Logger
+C++ program that updates a database with values from a temperature/hygronometer sensor.
